@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Brian Bal]]></title>
+  <link href="http://brianbal.github.io/atom.xml" rel="self"/>
+  <link href="http://brianbal.github.io/"/>
+  <updated>2013-06-02T22:10:24-04:00</updated>
+  <id>http://brianbal.github.io/</id>
+  <author>
+    <name><![CDATA[Brian Bal]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
